@@ -24,5 +24,5 @@ This SPA (Single Page Application) website is a modern web application that ensu
 1. **Clone the Repository**:
 2. **Navigate to the Project Directory**:
 
-# Link to example site
+### Link to example site
 https://spa-js_navbar.surge.sh
